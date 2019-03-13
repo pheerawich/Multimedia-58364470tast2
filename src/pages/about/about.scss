@@ -1,0 +1,49 @@
+page-about {
+    .backgroud-about{
+        background: #1a0a3a;
+        color: #ffffff;
+    }
+    .menu-about{
+        height: 200px;
+        // width: 200px;
+        // border-style: solid;
+        // background: #ff36a5;
+    }
+    .menu-miniview{
+        background: #ff3e62;
+        height: 45px;
+        width: 45px;
+        border-radius: 50%;
+        padding: 10%;
+    }
+    .menu-about-top{
+        padding-left: 32%;
+        padding-right: 32%;
+        padding-bottom: 8%;
+        padding-top: 25%;
+    }
+    .menu-about-top1{
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 40%;
+    }
+    .menu-about-top2{
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-bottom: 8%;
+        padding-top: 30%;
+    }
+    .content-about{
+        width: 100%;
+        height: 100%;
+        border-radius: 5px;
+        box-shadow: 0 2px 90px rgba(0, 0, 0, 0.397);
+        background: lighten(rgba(0,0,0,0.396),1%);
+        position: relative;
+        overflow: hidden;
+    }
+    .menu-sun{
+        padding-top: 20%;
+        padding-left: 20%;
+    }
+}
